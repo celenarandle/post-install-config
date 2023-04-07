@@ -47,7 +47,7 @@ When the Roles, Departments, and Teams are created, Permissions must be added as
 <img src="https://i.imgur.com/JL92fKh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step. it is established that anyone will be allowed to create tickets (Admin Panel>Settings>User Settings) and it is important to choose to "Require resgistration and login to create tickets".
+In this step. it is established that anyone will be allowed to create tickets (Admin Panel>Settings>User Settings) and it is important to choose to 'Require registration and login to create tickets'.
 </p>
 <br />
 
